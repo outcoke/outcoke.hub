@@ -20,7 +20,7 @@ it will work on these executor levels:
 Level 6, Level 7 executors.
 
 
-# qna 💬: when will outcoke.hub will be released?
+# qna 💬: outcoke.hub V0.0 (hasn't been released yet..)
 Q: when will you released it?
 
 A: i'm planning to released V1.0 on 5/10/2022 | 5/30/2022 (aka next month.)
