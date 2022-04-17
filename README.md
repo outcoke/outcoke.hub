@@ -21,8 +21,13 @@ Level 6, Level 7 executors.
 
 
 # qna 💬: when will outcoke.hub will be released?
-i'm planning to released V1.0 on 5/10/2022 | 5/30/2022 (aka next month.)
+Q: when will you released it?
 
-i hope i'll release it sooner.
+A: i'm planning to released V1.0 on 5/10/2022 | 5/30/2022 (aka next month.)
 
-i'm planning of making them for Simulator / Misc games.
+Q: what type of games will this hub we used for?
+
+A: i'm planning of making them for Simulator / Misc games.
+
+
+If you guys have questions and need aswers DM outcoke#6703
