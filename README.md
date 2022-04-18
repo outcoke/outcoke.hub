@@ -3,13 +3,10 @@
 # info ⭐: outcoke.hub V0.0 (hasn't been released yet..)
 hub made by outcoke#6703 feel free to use this anywhere. (not yet lol.)
 
-i will start the script making in 4/18/2022
-
 (ofcourse if the hub has support for it)
 
 currently has 0 games supported (reminder: the hub is still WIP so the script isn't released.)
 
-this project was in mind for me for 3, 2 months and im starting to make it.
 
 
 
@@ -33,3 +30,6 @@ A: i'm planning of making them for Simulator / Misc games.
 
 
 If you guys have questions and need aswers DM outcoke#6703
+
+# updates 📈: outcoke.hub V0.0 (hasn't been released yet..)
+day 1 - making a script for Ninja Legends https://www.roblox.com/games/3956818381/Ninja-Legends
