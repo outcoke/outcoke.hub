@@ -1,4 +1,4 @@
-# Script has a discord server join if you want hub leaks and more: https://discord.gg/ZzBkyMGnXv
+# no
 
 # info ⭐: outcoke.hub V0.0 (hasn't been released yet..)
 hub made by outcoke#6703 feel free to use this anywhere. (not yet lol.)
