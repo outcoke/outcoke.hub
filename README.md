@@ -32,4 +32,5 @@ A: i'm planning of making them for Simulator / Misc games.
 If you guys have questions and need aswers DM outcoke#6703
 
 # updates 📈: outcoke.hub V0.0 (hasn't been released yet..)
-day 1 - making a script for Ninja Legends https://www.roblox.com/games/3956818381/Ninja-Legends
+day 1 - setting everything up
+day 2 - making a script for Ninja Legends https://www.roblox.com/games/3956818381/Ninja-Legends
